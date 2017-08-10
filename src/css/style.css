@@ -6,6 +6,9 @@ body {
   border-bottom: #008ed6 3px solid;
   opacity: 0.8; }
 
+#home-section {
+  background: url("../img/home.jpg") no-repeat center top fixed; }
+
 @media (max-width: 576px) {
   nav .container {
     width: 100%; } }
